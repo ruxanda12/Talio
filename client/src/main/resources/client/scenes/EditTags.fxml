@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="window" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.scenes.Tags.EditTags.EditTagsCtrl">
+    <children>
+            <Button layoutX="27.0" layoutY="30.0" mnemonicParsing="false" onAction="#cancel" prefHeight="27.0" prefWidth="109.0" text="Back" AnchorPane.rightAnchor="428.0" AnchorPane.topAnchor="30.0" />
+            <Button layoutX="246.0" layoutY="546.0" mnemonicParsing="false" onAction="#addTag" prefHeight="27.0" prefWidth="109.0" text="Add Tag" />
+            <ScrollPane hbarPolicy="NEVER" layoutX="50.0" layoutY="92.0" prefHeight="429.0" prefWidth="500.0" vbarPolicy="NEVER" AnchorPane.bottomAnchor="79.0" AnchorPane.leftAnchor="50.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="92.0">
+                <content>
+                    <VBox fx:id="tags" fillWidth="false" prefHeight="0.0" prefWidth="500.0" />
+                </content>
+            </ScrollPane>
+      <Label fx:id="title" alignment="CENTER" layoutX="193.0" layoutY="19.0" prefHeight="49.0" prefWidth="215.0" text="Tags">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

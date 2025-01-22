@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="606.0" prefWidth="564.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.scenes.Tasks.EditTaskCtrl">
+   <children>
+      <ScrollPane hbarPolicy="NEVER" prefHeight="606.0" prefWidth="570.0" vbarPolicy="NEVER">
+        <content>
+          <AnchorPane fx:id="window" minHeight="0.0" minWidth="0.0" prefHeight="596.0" prefWidth="780.0">
+               <children>
+                  <TextField fx:id="title" layoutX="34.0" layoutY="69.0" prefHeight="26.0" prefWidth="250.0" AnchorPane.leftAnchor="34.0" AnchorPane.rightAnchor="496.0" AnchorPane.topAnchor="69.0" />
+                  <Text layoutX="35.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Task title" wrappingWidth="69.33667755126953" />
+                  <TextArea fx:id="description" layoutX="34.0" layoutY="146.0" prefHeight="154.0" prefWidth="251.0" AnchorPane.leftAnchor="34.0" AnchorPane.rightAnchor="495.0" />
+                  <Text layoutX="35.0" layoutY="131.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Task description" />
+                  <Button layoutX="40.0" layoutY="544.0" mnemonicParsing="false" onAction="#cancel" prefHeight="27.0" prefWidth="109.0" text="Cancel" AnchorPane.rightAnchor="631.0" AnchorPane.topAnchor="544.0" />
+                  <Text layoutX="40.0" layoutY="323.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Subtasks" wrappingWidth="178.13671875" />
+                  <ScrollPane hbarPolicy="NEVER" layoutX="40.0" layoutY="339.0" prefHeight="178.0" prefWidth="478.0" vbarPolicy="NEVER" AnchorPane.bottomAnchor="79.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="262.0" AnchorPane.topAnchor="339.0">
+                     <content>
+                        <VBox fx:id="subtasksList" fillWidth="false" prefHeight="183.0" prefWidth="481.0" />
+                     </content>
+                  </ScrollPane>
+                  <Text layoutX="311.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Background color" />
+                  <Text layoutX="310.0" layoutY="81.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Font color" />
+                  <Text layoutX="311.0" layoutY="130.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Border color" />
+                  <ColorPicker fx:id="backc" layoutX="311.0" layoutY="38.0" onAction="#backgroundTask" />
+                  <ColorPicker fx:id="borderc" layoutX="311.0" layoutY="135.0" onAction="#borderTask">
+                     <value>
+                        <Color />
+                     </value></ColorPicker>
+                  <ColorPicker fx:id="fontc" layoutX="311.0" layoutY="86.0" onAction="#fontTask">
+                     <value>
+                        <Color />
+                     </value></ColorPicker>
+                  <Button fx:id="backres" layoutX="484.0" layoutY="38.0" mnemonicParsing="false" onAction="#resetBackground" text="reset" />
+                  <Button fx:id="fontres" layoutX="484.0" layoutY="86.0" mnemonicParsing="false" onAction="#resetFont" text="reset" />
+                  <Button fx:id="borderres" layoutX="484.0" layoutY="135.0" mnemonicParsing="false" onAction="#resetBorder" text="reset" />
+                  <Button layoutX="409.0" layoutY="544.0" mnemonicParsing="false" onAction="#submit" prefHeight="27.0" prefWidth="109.0" text="Submit" />
+                  <Button layoutX="231.0" layoutY="544.0" mnemonicParsing="false" onAction="#addSubTask" prefHeight="27.0" prefWidth="109.0" text="Add Subtask" />
+                  <ScrollPane hbarPolicy="NEVER" layoutX="308.0" layoutY="203.0" prefHeight="95.0" prefWidth="210.0" vbarPolicy="NEVER">
+                     <content>
+                        <VBox fx:id="tagsList" prefHeight="95.0" prefWidth="210.0" />
+                     </content>
+                  </ScrollPane>
+                  <Text layoutX="310.0" layoutY="188.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tags" />
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

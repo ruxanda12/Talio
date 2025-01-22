@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.scenes.Boards.HomeScreenCtrl">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="182.0" layoutY="14.0" prefHeight="44.0" prefWidth="237.0" text="WORKSPACE" />
+      <BorderPane layoutX="26.0" layoutY="51.0" prefHeight="286.0" prefWidth="550.0">
+         <center>
+            <ScrollPane hbarPolicy="NEVER" prefHeight="200.0" prefWidth="550.0" vbarPolicy="NEVER" BorderPane.alignment="CENTER">
+               <content>
+                  <VBox fx:id="boardList" prefHeight="284.0" prefWidth="550.0" />
+               </content>
+            </ScrollPane>
+         </center>
+      </BorderPane>
+      <Button layoutX="40.0" layoutY="350.0" mnemonicParsing="false" onAction="#exit" prefHeight="35.0" prefWidth="61.0" text="Exit" />
+      <Button layoutX="442.0" layoutY="350.0" mnemonicParsing="false" onAction="#newBoard" prefHeight="35.0" prefWidth="98.0" text=" New Board" />
+      <Button layoutX="345.0" layoutY="350.0" mnemonicParsing="false" onAction="#joinBoard" prefHeight="35.0" prefWidth="46.0" text=" Join" />
+      <TextField fx:id="boardKey" layoutX="205.0" layoutY="355.0" prefHeight="26.0" prefWidth="122.0" />
+      <Label layoutX="139.0" layoutY="359.0" text="Board key: " />
+   </children>
+</AnchorPane>

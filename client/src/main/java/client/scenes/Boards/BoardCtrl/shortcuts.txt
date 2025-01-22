@@ -1,0 +1,8 @@
+Hello!
+With your mouse, hover over any task to highlight it and activate shortcuts.
+The available shortcuts are:
+ENTER to open EditTask screen, ESC to close.
+DELETE to delete highlighted task.
+E to directly change task's title.
+T to enter Tags screen, ESC to escape.
+C to enter customization screen, esc to escape.

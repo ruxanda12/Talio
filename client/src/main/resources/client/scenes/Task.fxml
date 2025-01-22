@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="200.0" prefWidth="300.0" style="-fx-border-radius: 5;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.scenes.Tasks.TaskCtrl">
+   <children>
+      <Pane fx:id="taskPane" layoutX="10.0" layoutY="10.0" onMouseEntered="#highlight" onMouseExited="#unhighlight" prefHeight="180.0" prefWidth="280.0" style="-fx-border-color: black;">
+         <children>
+            <Button fx:id="deleteTask" layoutX="168.0" layoutY="146.0" mnemonicParsing="false" onAction="#deleteTask" onMouseEntered="#deleteEntered" onMouseExited="#deleteExited" prefHeight="25.0" prefWidth="85.0" text="Delete Task" />
+            <ProgressBar fx:id="progressBar" layoutX="34.0" layoutY="101.0" prefHeight="19.0" prefWidth="145.0" progress="0.0" />
+            <Label fx:id="progress" alignment="CENTER" contentDisplay="CENTER" layoutX="179.0" layoutY="101.0" prefHeight="19.0" prefWidth="79.0" text="(0/1 done)" textAlignment="CENTER" />
+            <Button fx:id="details" layoutX="31.0" layoutY="146.0" mnemonicParsing="false" onAction="#editTask" onMouseEntered="#editEntered" onMouseExited="#editExited" text="Edit Task" />
+            <Label fx:id="title" alignment="CENTER" contentDisplay="CENTER" layoutX="63.0" layoutY="3.0" prefHeight="50.0" prefWidth="145.0" text="Task" textAlignment="CENTER">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <HBox fx:id="tagsBox" layoutX="35.0" layoutY="52.0" prefHeight="43.0" prefWidth="214.0" />
+            <Label fx:id="description" layoutX="19.0" layoutY="8.0" text="D" textFill="#8d8d8d">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
