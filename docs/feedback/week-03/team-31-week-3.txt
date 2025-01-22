@@ -1,0 +1,43 @@
+# Meeting
+
+
+#### Meeting Organization
+
+Chair: Teun Klaassens
+Minute taker: Stoyan Markov
+
+Mark: Pass
+
+Feedback: The chair and minute taker were decided in advance and came prepared.
+
+
+#### Agenda 
+
+Mark: Very Good
+
+Feedback: The agenda was provided on time and followed the template. My changes from last week were also implemented. The individual points were clearly described and the team was prepared to follow the agenda. There was only one little typo at the end - the last two timeslots cover incorrect times.
+
+
+#### Chair performance
+
+Mark: Very Good
+
+Feedback: The agenda items were all covered and the chair did a good job at keeping the conversation going and sticking to the agenda items. All the agenda points were covered for appropriate amounts of time and the meeting was efficiently used to discuss any comments or questions on the backlog feedback, the Git assignment and the further scheduling of tasks for the rest of the week.
+
+
+#### Attitude & Relation
+
+Mark: Excellent
+
+Feedback: The meeting atmosphere was very pleasant and easy going. The team took complete ownership in leading the meeting, and the discussion truly involved all members contributing their ideas and discussing their plans. I also feel like there is always a comfortable atmosphere that allows anyone to ask any questions they have or to make suggestions on the topics that are being discussed.
+
+
+#### Potentially Shippable Product
+
+Mark: Insufficient
+
+Feedback: No code has been written yet, so there is no shippable product. However, the team seems to have looked into Spring quite a lot already and was excited to begin coding soon, so I look forward to seeing the progress next week!
+
+
+
+

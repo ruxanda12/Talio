@@ -1,0 +1,56 @@
+
+# Week 2
+
+- **Chair**: Diego Becerra Merodio
+- **Notetaker**: Teun Klaassens
+
+
+#### Meeting Organization
+
+Were there a chair and a minute taker?
+
+Mark: Pass
+
+Feedback: The chair and mintue taker were decided in advance.
+
+
+#### Agenda 
+
+Was it delivered in time? Did it follow the template?
+
+Mark: Good
+
+Feedback: The agenda was submitted on time and includes the discussion points similar to the template. In the future, please add a field with the chair and minute taker for the meeting, and add a timeslot for any TA announcements. 
+
+#### Chair performance
+
+Did the chair ensure that all topics of the agenda were covered?
+
+Mark: Excellent
+
+Feedback: The chair followed the agenda structure clearly and led the discussion by asking other to participate. It was also nice that the code of conduct was read out loud by the team, since that allowed you to discuss the document together point-by-point. Another positive was that the chair asked for confirmation again after decisions were made to double check that the entire team was on the same page.
+
+#### Time management
+
+Was there time for all topics? Were all topics covered for an appropriate amount of time?
+
+Mark: Excellent
+
+Feedback: The time slots on the agenda were followed exactly. The timeslots were also appropriately managed in advance, with enough time spent on the code of conduct and the backlog.
+
+#### Minute taker performance
+
+Is there a good amount of notes? Do the notes contain the team agreements and the assigned people?
+
+Mark: Good
+
+Feedback: The notes were clear and segmented by topic, which made them easy to follow. However, I believe that specific questions were stated in the meeting that you wanted to ask at the Q&A session, and I can't see these in the meeting notes, so make sure that everything is written down next time.
+
+#### Relation
+
+ Was everyone involved? Did everyone contribute to the discussion topics in an equal amount? Was everyone listened to? Were everybody's ideas taken into account?
+
+Mark: Excellent
+
+Feedback: There was a nice atmosphere and equal contributions from everyone in the team. Everyone's ideas were taken seriously and everyone was encouraged to make suggestions when there were discussions about a specific topic. The discussion was also of high quality, e.g. when the terminology was defined and discussed amongst the group to get everyone on the same page for the backlog. 
+

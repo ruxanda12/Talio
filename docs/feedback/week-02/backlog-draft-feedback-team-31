@@ -1,0 +1,43 @@
+# Backlog
+
+
+### Submission
+
+Mark: Pass
+
+Feedback: The backlog was submitted on time. However, please submit the final backlog in the 'docs' folder rather than the 'docs/agenda' folder.
+
+
+### Backlog Structure
+
+Mark: Fail
+
+Feedback: The definitions of the stakeholders and the terminology were clear and well-structured. Furhtermore, it was very nice to see mock-ups included in the backlog as well.
+You also have a good basis for the rest of the backlog: the user stories are well considered and the backlog covers the main requirements of the application. 
+However, there are a few important improvements that still need to be made. The main problem is that the epics are supposed to describe features, rather than the separation into 'basic', 'extra' and 'advanced'. Once you have chosen new epics, go through your user stories again and see which epic they now fit it.
+ Moreover, some user stories and therefore acceptance criteria are too broad. Make sure that every user story has on specific point of focus and that the acceptance criteria almost follow implicitly. Also remember that the acceptance criteria should be measurable, so that they can be used to determine when a user story has been completely implemented.
+
+
+### Epics
+
+Mark: Insufficient
+
+Feedback: It is good to see that you have designed mock-ups to complement your descriptions. 
+However, rather than having the epics 'basic', 'advanced' and 'extra', make the epics more focused on features that need to be implemented in the application. You should keep the 'basic' epic, because this will descripe the minimal functionality you need to implement for a pass. Beyond that, try to formulate five or so epics describing different features you will be implementing in the application. You should also add an introduction describing every epic before going into the user stories. Do not be confused by the MoSCoW structure used in last year's backlog example, and instead adhere to the epic description as provided by the Requirements Engineering lecture.
+
+
+### User Stories
+
+Mark: Sufficient
+
+Feedback: You follow the user story structure shown in the lecture well, which makes the user stories clear and easy to understand. Furthermore, the user stories cover the main requirements for the application. 
+However, some user stories could be reduced to focus on one more specific aspect, e.g. the first user story can be split up into a user story describing the creation and another describing the deletion of a task. Additionally, I believe that when you're restructuring the epics, the user stories might also need to be rewritten a bit. When you're doing that, make sure that the user stories cover everything that needs to be covered within that epic.
+
+
+### Acceptance Criteria
+
+Mark: Sufficient
+
+Feedback: You have nicely defined acceptance criteria for most user stories. For some user stories, the acceptance criteria correctly specify the conditions that need to be met within a user story, e.g. for the user story about customising the theme of the board. 
+However, for other user stories, the user stories themselves are too broad, so the acceptance criteria are also too big. The acceptance criteria should almost be implicit from reading the user story. Have a look at the example in the Requirements Engineering lecture again, where something like 'Created card is added to the database' is part of the acceptance criteria - this is the scale at which the acceptance criteria should be formulated.
+

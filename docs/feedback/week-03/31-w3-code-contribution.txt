@@ -1,0 +1,39 @@
+# Code Contributions and Code Reviews
+
+
+#### Focused Commits
+
+Grade: Sufficient
+
+Feedback: There are very few commits so far, and none of them are really technical, so this is a bit hard to judge. However, the few commits that have been made for adding documents like the agendas and backlog had a clear commit message.
+
+
+#### Isolation
+
+Grade: Insufficient
+
+Feedback: There have been no significant merge requests, so it is hard to judge the scope of a typical merge request. Once you start coding more in the upcoming week, make sure to use branches and merge requests to implement individual features. 
+
+
+#### Reviewability
+
+Grade: Insufficient
+
+Feedback: Again, there are no significant merge requests so there is not enough to really give feedback on. For your future merge requests, make sure that they have a clear focus and description that allows other to easily understand the purpose of the merge request. 
+
+
+#### Code Reviews
+
+Grade: Insufficient
+
+Feedback: There have been no merge requests that needed code review. In the upcoming week there may be more code to review, so keep in mind that feedback should be constructive and that code review feedback should be implemented and imporoved quickly. 
+
+
+#### Build Server
+
+Grade: Sufficient
+
+Feedback: Again, since not much code has been added to the repository yet, this is hard to judge. So far builds on main have not failed yet, but this does not mean much, because no functional code has been merged yet. Remember to chose ten or more checkstyle rules and include them in your checkstyle file. 
+
+Overall, it is hard to judge these criteria so far. I like to see that you have the 'playground' branch in which you can experiment a bit, but make sure to start the actual project implementation this week. 
+

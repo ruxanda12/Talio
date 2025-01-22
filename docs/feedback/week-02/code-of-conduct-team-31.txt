@@ -1,0 +1,95 @@
+### Submission
+The students have added a single file to their repository and put it in the right place.
+
+Mark: Pass
+
+Feedback: The code of conduct is in the 'docs/agendas' folder in the repository, rather than directly in the 'docs' folder. Please make sure to move it to the proper location to make it easier to find in the future.
+
+
+### General
+
+Mark: Sufficient
+
+Feedback: Overall, the sections were all filled out and it can be seen that effort was put into this assignment. Nonetheless, some sections can be expanded further and I provided feedback on areas that could be clarified to ensure that everyone in your team knows exactly what the expectations for this project are. 
+
+
+### Assignment Description
+
+Mark: Sufficient
+
+Feedback: The assignment description is clear, but missing details. For example, the exact structure of the various boards and the functionality that the application provides could have been described more clearly, rather than saying 'similar to that of a professional workspace'. 
+
+### Products
+
+Mark: Insufficient
+
+Feedback: The final application is nicely described in the detail that was missing for the assignment description. However, the question 'What standards must the work submitted meet?' was not answered. Additionally, other final deliverables like the Heuristic Usability Evaluation report and the Product Pitch were not mentioned.
+
+### Planning
+
+Mark: Good
+
+Feedback: The agreements are clearly formulated and the deadline of one day ahead of the deadline is realistic. You could expand a bit more on how the entire team will agree that the deliverable is up to quality for the submission.
+
+### Communication
+
+Mark: Good
+
+Feedback: The various communication channels and their purposes are clearly stated. You could also discuss and record when certain communications will happen, e.g. when you want the agenda and meeting notes to be submitted to the repository.
+
+
+### Commitment
+
+Mark: Insufficient
+
+Feedback: You mention how the commitment of the chairs and minute takers is measured, but do not elaborate on how the quality of group work and the work of individuals is assessed. This is important, since clarifying how quality of work is assessed will allow you to evaluate the work of every team member throughout the project.
+
+
+### Division of Tasks and Roles
+  
+Mark: Sufficient
+
+Feedback: You have mentioned that you will rotate the chair and notetaker roles, but it would be nice to also include a schedule for the next fews meetings, so that the entire group knows when they are chair and notetaker.
+
+### Meetings
+  
+Mark: Good
+
+Feedback: You specified that you will meet on Mondays aside from the TA meeting. Now it would still be nice to mention what preparations these meetings will require and how they will be conducted, e.g. will you have a chair and an agenda for non-TA meetings?
+
+### Decision Making
+  
+Mark: Good
+
+Feedback: You specified nicely how you will make decisions, and what to do in case of a conflict. An elaboration that you could make to this is how and when you would involve me as the TA in making any suggestions for decisions that need to be made.
+
+### Dealing with Conflicts
+  
+Mark: Very Good
+
+Feedback: The response to an escalation of a potential conflict and the involvement of a TA in case of an escalation was described. However, you could go into more depth about how you would encourage everyone to share their views on a problem.
+
+### Guidance
+  
+Mark: Excellent
+
+Feedback: The expectations are realistic and were discussed and approved by me in the Tuesday meeting.
+
+### Consequences
+  
+Mark: Good
+
+Feedback: The consequences were discussed and tiered, so that a more severe breach has stronger consequences like involving the TA. You could have specified more clearly when a breach will be considered a more serious case by providing examples.
+
+### Success Factors
+  
+Mark: Good
+
+Feedback: You have defined success factors that relate to your specific team composition and that reflect enthusiasm for the project.
+
+### Norms or Evaluation Criteria
+
+Mark: Very Good
+
+Feedback: You have defined seven specific norms that you will evaluate your work by, and elaborated on some of them by providing the exact questions that need to be answered for the evaluation.
+
